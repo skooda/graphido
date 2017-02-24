@@ -1,0 +1,19 @@
+body {
+}
+
+.editor {
+  width: 100vw;
+  height: 35vh;
+  color: #fff;
+  background: #444;
+  border: none;
+  font-size: 1em;
+  overflow: scroll;
+}
+
+.preview {
+  width: 100vw;
+  height: 65vh;
+  object-fit: contain;
+  border: none;
+}
